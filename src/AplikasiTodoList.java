@@ -1,5 +1,5 @@
 public class AplikasiTodoList {
-    public static String[] = new String[10];
+    public static String[] model = new String[10];
 
     public static void main(String[] args){
 
@@ -9,7 +9,14 @@ public class AplikasiTodoList {
      * Menampilkan todo list
      */
     public static void showTodoList(){
+        for(var i = 0; i < model.length; i++){
+            var todo = model[i];
+            var no = i + 1;
 
+            if (todo != null){
+                System.out.println(no+ ". " + todo);
+            }
+        }
     }
 
     /**
@@ -23,6 +30,27 @@ public class AplikasiTodoList {
      * Untuk menghapus todo dari list
      */
     public static void removeTodoList(){
+
+    }
+
+    /**
+     * Menampilkan view todo list
+     */
+    public static void viewShowTodoList(){
+
+    }
+
+    /**
+     * Menampilkan view menambahkan todo list
+     */
+    public static void viewAddTodoList(){
+
+    }
+
+    /**
+     * Menampilkan view menghapus todo list
+     */
+    public static void viewRemoveTodoList(){
 
     }
 }
