@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d49c6ca8-562d-462c-bb9e-10b4ba0dc67b" name="Changes" comment="04Apr23,Penambahan script menampilkan todo list">
+    <list default="true" id="d49c6ca8-562d-462c-bb9e-10b4ba0dc67b" name="Changes" comment="04Apr23,Penambahan script menambahkan todo list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AplikasiTodoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AplikasiTodoList.java" afterDir="false" />
     </list>
@@ -32,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="AplikasiTodoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AplikasiTodoList" />
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680591307803</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="04Apr23,Penambahan script menambahkan todo list">
+      <created>1680599953128</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680599953128</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="04Apr23,Penambahan draft model" />
     <MESSAGE value="04Apr23,Penambahan script menampilkan todo list" />
-    <option name="LAST_COMMIT_MESSAGE" value="04Apr23,Penambahan script menampilkan todo list" />
+    <MESSAGE value="04Apr23,Penambahan script menambahkan todo list" />
+    <option name="LAST_COMMIT_MESSAGE" value="04Apr23,Penambahan script menambahkan todo list" />
   </component>
 </project>
