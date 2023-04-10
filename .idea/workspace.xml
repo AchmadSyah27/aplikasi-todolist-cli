@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d49c6ca8-562d-462c-bb9e-10b4ba0dc67b" name="Changes" comment="05Apr23,Penambahan script menghapus todo list">
+    <list default="true" id="d49c6ca8-562d-462c-bb9e-10b4ba0dc67b" name="Changes" comment="10Apr23,Penambahan script input data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AplikasiTodoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AplikasiTodoList.java" afterDir="false" />
     </list>
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680662205227</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="10Apr23,Penambahan script input data">
+      <created>1681096507065</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681096507065</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +116,7 @@
     <MESSAGE value="04Apr23,Penambahan script menampilkan todo list" />
     <MESSAGE value="04Apr23,Penambahan script menambahkan todo list" />
     <MESSAGE value="05Apr23,Penambahan script menghapus todo list" />
-    <option name="LAST_COMMIT_MESSAGE" value="05Apr23,Penambahan script menghapus todo list" />
+    <MESSAGE value="10Apr23,Penambahan script input data" />
+    <option name="LAST_COMMIT_MESSAGE" value="10Apr23,Penambahan script input data" />
   </component>
 </project>
